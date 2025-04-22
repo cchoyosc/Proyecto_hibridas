@@ -1,3 +1,3 @@
-# flutter_proyecto
+Julian David Chaves Jimenez - Cristian Camilo Hoyos Cruz
 
-A new Flutter project.
+Proyecto de un programa de una tienda deportiva, la aplicacion es hibrida.
